@@ -1,13 +1,13 @@
-# Project Zeppelin / GDG DevFest 2014 site template
+# Project recurit / GDG DevFest 2014 site template
 
 ### About 
-Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes. 
+Project recurit allows you to setup awesome GDG DevFest site in 5 minutes. 
 
 Project is builded on top of [Jekyll](http://jekyllrb.com/) - simple, blog-aware, static site generator. Jekyll also happens to be the engine behind GitHub Pages, which means you can use Jekyll to host your website from GitHub’s servers for free. [Learn more about Jekyll](http://jekyllrb.com/).
 
 Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
-### Live demo http://gdg-x.github.io/zeppelin/
+### Live demo http://gdg-x.github.io/recurit/
 
 ### Features
 * Easy to setup
@@ -18,12 +18,12 @@ Template is brought by [GDG Lviv](http://lviv.gdg.org.ua/) team.
 
 
 ### Quick-start guide
-1. [Fork](https://github.com/gdg-x/zeppelin/fork) this repo
+1. [Fork](https://github.com/gdg-x/recurit/fork) this repo
 2. Clone locally
 3. Update ```_config.yml``` 
 4. Select what content blocks do you need
 5. Push changes to ```gh-pages``` branch
-6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/zeppelin/```
+6. Enjoy your awesome DevFest site at ```http://[your github name].github.io/recurit/```
 
 
 ## Local development
@@ -33,7 +33,7 @@ Check if you have [all requirments for local environment](http://jekyllrb.com/do
 ```bash
     jekyll serve -w
 ```
-Site will be available at http://127.0.0.1:4000/zeppelin/
+Site will be available at http://127.0.0.1:4000/recurit/
 
 **NOTE:** in this mode all changes to html and data files will be automatically regenerated, but after changing ```_config.yml``` you have to restart server.
 
@@ -63,7 +63,7 @@ To watch changes in `.sass` files and compile it to the `.css` on a fly, run thi
 	compass watch -c config.rb -e production
 ```
 
-Learn more about Sass development from [documentation](https://github.com/gdg-x/zeppelin/wiki/Sass-development).
+Learn more about Sass development from [documentation](https://github.com/gdg-x/recurit/wiki/Sass-development).
 
 
 ### Resource optimizations (optional)
@@ -79,10 +79,10 @@ To minify CSS and JS run `minify_all.bat` from `/automation/minifying/` folder:
     minify_all.bat
 ```
 
-Learn more about available optimization options from [documentation](https://github.com/gdg-x/zeppelin/wiki/Resources-optimizations).
+Learn more about available optimization options from [documentation](https://github.com/gdg-x/recurit/wiki/Resources-optimizations).
 
 ### Documentation
-Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/zeppelin/wiki).
+Quick-start guide is not enough? Checkout [full documentation](https://github.com/gdg-x/recurit/wiki).
 
 
 ### TODO List
@@ -117,6 +117,6 @@ Going to use template? Go on! The only thing we ask - let us know at [*lviv@gdg.
 * Idea and Jekyll integration: [Vitaliy Zasadnyy](https://github.com/zasadnyy)
 
 ### Licence
-Project is published under the [MIT licence](https://github.com/gdg-x/zeppelin/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
+Project is published under the [MIT licence](https://github.com/gdg-x/recurit/blob/master/LICENSE.txt). Feel free to clone and modify repo as you want, but don'y forget to add reference to authors :)
 
 

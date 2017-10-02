@@ -8,61 +8,61 @@
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/myblog/404</loc>
+        <loc>http://localhost:4000/recurit/myblog/404</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/about/</loc>
+        <loc>http://localhost:4000/recurit/about/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/blog/</loc>
+        <loc>http://localhost:4000/recurit/blog/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/cod/</loc>
+        <loc>http://localhost:4000/recurit/cod/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/hackathon/</loc>
+        <loc>http://localhost:4000/recurit/hackathon/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/</loc>
+        <loc>http://localhost:4000/recurit/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/myblog/</loc>
+        <loc>http://localhost:4000/recurit/myblog/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/logistics/</loc>
+        <loc>http://localhost:4000/recurit/logistics/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/members/</loc>
+        <loc>http://localhost:4000/recurit/members/</loc>
     </url>
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/schedule/</loc>
+        <loc>http://localhost:4000/recurit/schedule/</loc>
     </url>
     
     
@@ -70,22 +70,22 @@
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/team/</loc>
+        <loc>http://localhost:4000/recurit/team/</loc>
     </url>
     
     
     
     
     <url>
-        <loc>http://localhost:4000/zeppelin/blog/welcome-to-jekyll</loc>
+        <loc>http://localhost:4000/recurit/blog/welcome-to-jekyll</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/zeppelin/blog/call-for-papers</loc>
+        <loc>http://localhost:4000/recurit/blog/call-for-papers</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/zeppelin/blog/hello-world</loc>
+        <loc>http://localhost:4000/recurit/blog/hello-world</loc>
     </url>
     
 </urlset>
