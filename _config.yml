@@ -1,0 +1,340 @@
+# Build Settings
+markdown: kramdown
+permalink: pretty
+exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
+
+
+# Site Settings
+title: "SSUmunity 2017 SS Recruit"
+email: "gdgssu@gmail.com"
+description: "SSUmunity 2017 recruit"
+baseurl: "/zeppelin"
+url: "http://gdg-ssu.github.io"
+permalink: "/blog/:title"
+googleAnalyticsTrackingId: "UA-43643469-5"
+googleAnalyticsSiteUrl: "gdg-x.github.io"
+
+# Organizer Info
+organizerName: "SSUmunity"
+organizerAlternateName: "Google Developer Group SSU"
+organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
+organizerEmail: "konomama0505@gmail.com"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://lviv.gdg.org.ua/"
+
+# Head
+metaKeywords: "event, gdg, gdgssu, google, programming, android, chrome, developers, 숭실대학교"
+twitterAccount: "@GDGSSU"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+
+# Documents
+c4pUrl: "http://bit.ly/dfua-c4p"
+c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/members/", text: "Members"}
+ - {permalink: "/team/", text: "team"}
+
+bottomNavigationLinks:
+ - {link: "/#tickets", text: "SSUmunity 지원하기"}
+rightNavigationButtons:
+ - {link: "/recruit/#tickets", text: "SSUmunity 지원하기"}
+
+# Hero Block
+heroImage: "hero.jpg"
+heroTitle: "2017 <typeout> Recruit"
+eventDate: "10/10 Tue - 10/20 Fri, 2017"
+typeoutTextValues: '"SSUmunity","슈뮤니티", "Google Developer Group SSU", "Hello! SSUmunity!", "Show your energy on"'
+typeoutFallback: "SSUmunuity"
+heroButtons:
+ - {permalink: "/#tickets", text: "SSUmunity 지원하기"}
+ - {permalink: "/#about", text: "GDGmunity 알아보기"}
+
+# About Block
+aboutTitle: "About GDG SSU"
+aboutBlock:
+ - {title: "학생 개발자 & 디자이너", image: "dnd.jpg", text: "그냥 학생이라고 하기엔 뭔가 독특합니다. SW 분야를 전공하는 학생으로 자신만의 꿈과 목표가 명확하며 그저 배우는 것 뿐만이 아닌, 자신만의 주력분야를 가지고 실질적인 SW 개발/디자인을 진행합니다. 우리는 우리 스스로를 평범한 학생이 아닌 학생 개발자/디자이너라고 칭합니다." }
+ - {title: "수많은 능력자", image: "stronger.jpg", text: "CS 전공자들에게 널리 알려진 SW Maestro 과정이나 삼성 소프트웨어 멤버십, Best of Best와 같은 연수과정을 거친 학생들이 이곳에 모여있습니다. 그리고 대학을 졸업하지 않았음에도 자신만의 아이템을 가지고 SW 창업을 진행하거나, 우리가 익히들은 Naver / 삼성전자 / LG전자 / Evernote / Nexon 등의 기업체에서 활약을 하는 능력자가 있습니다." }
+ - {title: "With Google", image: "with_google.jpg", text: "GDG SSU는 이름에서도 느껴지다시피 Google의 지원을 받으며 개발자로서 유익하고 의미있는 활동을 지속해왔습니다. GDG SSU의 일원이 되면 최고의 개발자라 일컫어지는 Googler를 만나서 인연을 맺고 도움을 받는 기회 또한 얻게됩니다." }
+
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "250", specialCharacter: "+", info: "Person", detail: "GDG SSU는 우리가 마련한 가치있는 이벤트에서 많은 사람들을 모으고 그들이 좋은 추억과 경험을 가질 수 있는 기회를 제공했습니다. 1회 평균 250명, 현재까지 약 2700명 이상의 학생들을 만나왔습니다."}
+ - {count: "50", specialCharacter: "+", info: "Events", detail: "설립한지 3년, 길지 않은 시간이었지만 GDG SSU는 학생개발자들의 발전을 위하여 유익한 개발자 행사를 수 차례 주최해왔습니다. GDG SSU는 그룹의 일원으로서 가입하는 것 뿐만이 아닌 이러한 이벤트에 참여하는 방식 역시 의미가 있습니다."}
+ - {count: "43", specialCharacter: "+", info: "Members", detail: "GDG SSU에는 좋은 멤버들의 숫자가 나날히 늘어가고 있습니다. 기존에 이 분야를 업으로 삼아온 사람들, 그 앞선 사람들의 등을 보고 따르며 성장하는 사람들 모두 말이지요."}
+ - {count: "3", specialCharacter: "-", info: "3 Campus Couple..", detail: "젊은 대학생 시절을 사랑에 불태우는 사람들이 많습니다. GDG SSU에는 개발뿐만 아니라 동아리 내에서 뜨거운 연애를 진행중인 커플이 많습니다."}
+
+# Latest News Block
+latestNewsTitle: "Mission of GDG SSU"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "GDG SSU 사람들"
+rockstarSpeakersButtonText: "GDG SSU의 모든 멤버 보기"
+
+# Location Block
+locationBlockTitle: "Location"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
+eventStartTime: "2014-10-25T10:00"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "37.566189, 126.978101"
+mapCenterCoordinates: "37.566189, 126.978101"
+mapMobileCenterCoordinates: "37.566189, 126.978101"
+
+# Venue Block
+venueBlockTitle: "좋은 개발자가 되고, 좋은 동료를 키우기 위해 활동해왔습니다."
+venueBigImage: "1.jpg"
+venueSmallImage1: "2.jpg"
+venueSmallImage2: "4.jpg"
+venueSmallImage3: "3.jpg"
+venueTitle: "Achievement of GDG SSU"
+venueFeatures: ["STD.IO Hello World!", "GDG Student Hackathon", "Daum DevOn", "etc..."]
+
+# Tweets Feed Block
+tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedTitle: "에서 일어나는 일을 알고 싶다면?"
+twitterHashTag : "GDG SSU"
+twitterFeed: "Google 계정으로 쉽게 연동되는 Google+에 가입하시고 <br> 위 링크의 GDG SSU 커뮤니티로 찾아오세요!"
+
+# Partners Block
+organizersTitle: "Organizers"
+partnersTitle: "Partners"
+partnersC4sponsorsButton: "Become a sponsor"
+
+
+# Subscribe Block
+subscribeImage: "subscribe.jpg"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+
+# Tickets Block
+ticketsTitle: "SSUmunity 개발팀 지원하기"
+ticketsInfo: ""
+ticketsOffers:
+
+ -
+  name: "IOS"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["단순히 학교에서 전공을 배우는 것을 넘어, 그것을 응용해 자신만의 주력 개발분야를 잡고 발전하는 학생 개발자.", "타인의 의견을 경청하며 협업의 가치를 중요시하고, 함께 개발하며 성장하는 것에 가치를 느끼는 분", "자신의 경험사례를 주변에 공유하는 것을 즐기고, '오픈소스'라는 문화에 관심을갖고 도전해볼 의향이 있는 분"]
+  validFrom: ""
+  validThrough: ""
+
+
+ -
+  name: "Android"
+  price: ""
+  priceCurrency: "Preferred Qualifications"
+  ticketsNumber: ""
+  featured: true
+  buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+  buyButtonText: "Apply Now"
+  ticketContentList: ["모호하고 추상적인 아이디어나 의견을 자신만의 색깔을 담아 구체적으로 나타내 볼 수 있는 분", "자신만의 독특한 색깔을 유지하되, 타 역할군과의 커뮤니케이션을 유연하게 지켜나가며 협업 할 수 있는 분", "개발자 그룹이지만 이곳에서도 괜찮은 아이디어를 타겟으로 PM을 맡을 수 있다는 용기를 가지고 행동하실 수 있는 분"]
+  validFrom: ""
+  validThrough: ""
+  disabled: true
+
+ -
+    name: "BackEnd"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+    buyButtonText: "Apply Now"
+    ticketContentList: ["컨텐츠 팀", "자신만의 독특한 색깔을 유지하되, 타 역할군과의 커뮤니케이션을 유연하게 지켜나가며 협업 할 수 있는 분", "개발자 그룹이지만 이곳에서도 괜찮은 아이디어를 타겟으로 PM을 맡을 수 있다는 용기를 가지고 행동하실 수 있는 분"]
+    validFrom: ""
+    validThrough: ""
+
+
+# Tickets2 Block
+tickets2Title: "SSUmunity 컨텐츠팀 지원하기"
+tickets2Info: ""
+tickets2Offers:
+
+
+ -
+    name: "operation"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+    buyButtonText: "Apply Now"
+    ticketContentList: ["운영팀", "팀의 전체적인 조율을 담당, 타 역할군과의 커뮤니케이션을 유연하게 지켜나가며 협업 할 수 있는 분", "개발자 그룹이지만 이곳에서도 괜찮은 아이디어를 타겟으로 PM을 맡을 수 있다는 용기를 가지고 행동하실 수 있는 분"]
+    validFrom: ""
+    validThrough: ""
+
+ -
+    name: "QA Tester"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+    buyButtonText: "진모제외"
+    ticketContentList: ["QA테스터", "기발한 테스터를 담당, 타 역할군과의 커뮤니케이션을 유연하게 지켜나가며 협업 할 수 있는 분", "개발자 그룹이지만 이곳에서도 괜찮은 아이디어를 타겟으로 PM을 맡을 수 있다는 용기를 가지고 행동하실 수 있는 분"]
+    validFrom: ""
+    validThrough: ""
+
+
+# Tickets3 Block
+tickets3Title: "SSUmunity 운영팀 지원하기"
+tickets3Info: ""
+tickets3Offers:
+
+
+ -
+    name: "operation"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+    buyButtonText: "Apply Now"
+    ticketContentList: ["운영팀", "팀의 전체적인 조율을 담당, 타 역할군과의 커뮤니케이션을 유연하게 지켜나가며 협업 할 수 있는 분", "개발자 그룹이지만 이곳에서도 괜찮은 아이디어를 타겟으로 PM을 맡을 수 있다는 용기를 가지고 행동하실 수 있는 분"]
+    validFrom: ""
+    validThrough: ""
+
+ -
+    name: "QA Tester"
+    price: ""
+    priceCurrency: "Preferred Qualifications"
+    ticketsNumber: ""
+    buyButtonLink: "http://goo.gl/forms/FrZBz8aU5I"
+    buyButtonText: "진모제외"
+    ticketContentList: ["QA테스터", "기발한 테스터를 담당, 타 역할군과의 커뮤니케이션을 유연하게 지켜나가며 협업 할 수 있는 분", "개발자 그룹이지만 이곳에서도 괜찮은 아이디어를 타겟으로 PM을 맡을 수 있다는 용기를 가지고 행동하실 수 있는 분"]
+    validFrom: ""
+    validThrough: ""
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/u/0/communities/101463090584658665422", icon: "google-plus"}
+ - {link: "https://www.facebook.com/gdgkorea?ref=hl", icon: "facebook"}
+
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://plus.google.com/u/0/communities/101463090584658665422", text: "GDG Soongsil University Community"}
+   - {link: "https://developers.google.com/groups/chapter/100263126816983481169/", text: "Google Developers"}
+ -
+  title: "Contacts"
+  links:
+   - {link: "mailto:gdgssu@gmail.com", text: "gdgssu@gmail.com"}
+   - {link: "https://www.google.co.kr/maps/place/%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EB%8F%99%EC%9E%91%EA%B5%AC+%EC%83%81%EB%8F%841%EB%8F%99+510/@37.4943054,126.9592987,15z/data=!3m1!4b1!4m2!3m1!1s0x357ca1d4065591cb:0x69f6030d99956d32?hl=ko", text: "서울특별시 동작구 상도1동 501 숭실대학교 총동문회관 B1 G-Lab"}
+
+
+
+# Blog
+blogTitle: "Latest news"
+blogCommentsEnabled: true
+discusShortName: "devfestua"
+
+# Speakers List Block
+showSessions: true
+
+
+# Team Block
+teamBlockTitle: "About us"
+showSessions: true
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+
+
+# Logistics Find Way Block
+findWayTitle: "Find your way here"
+findWayDistance: "Distance"
+findWayDriving: "DRIVING"
+findWayWalking: "WALKING"
+findWayBicycling: "BICYCLING"
+findWayTransit: "TRANSIT"
+findWayFindFlight: "Find Flight"
+logisticsMapCenterCoordinates: "49.056728, 3.117289"
+logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+
+# Logistics Direction Details Block
+directionDetailsImage: "direction-details.jpg"
+directionDetailsTitle: "Get around Lviv"
+directionDetailsCards:
+ - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
+ - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
+ - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+directionDetailsWideCards:
+ -
+  title: "Questions?"
+  subCards:
+   -
+    title: "Hotels"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Registration"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Attendance Details"
+    links:
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
+# Hackathon
+hackathonTitle: "Hackathon"
+enableHackathon: true
+
+# Hackathon About Block
+aboutHackathonTitle: "Meet our themes"
+hackathonRows:
+ - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
+ - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
+
+# Hackathon Judges Block
+judgesImage: "judges.jpg"
+judgesTitle: "Judges"
+
+# Hackathon Prizes Block
+prizesTitle: "Prizes"
+prizes:
+ - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
+ - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
+ - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
+
+# Hackathon Location Block
+hackathonLocationBlockTitle: "Location"
+hackathonLocationName: "Communa"
+hackathonLocationLink: "http://communa.net.ua/"
+hackathonStreetAddress: "1 Halytska St"
+hackathonAddressLocality: "Lviv"
+hackathonAddressLocalityRegion: "Lvivska"
+hackathonPostalCode: "79000"
+hackathonAddressCountry: "Ukraine"
+hackathonTimeTitle: "Hack through"
+hackathonStartTime: "2014-10-24T10:00"
+hackathonDoorTime: "09:00"
+hackathonEndTime: "2014-10-25T00:00"
+viewOnMap: "View on Google Maps"
+hackathonPlaceCoordinates: "49.840999, 24.031144"
+hackathonMapCenterCoordinates: "49.840696, 24.028754"
+hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
