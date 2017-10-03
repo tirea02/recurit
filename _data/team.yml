@@ -1,23 +1,21 @@
 -
   id: 1
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: yujin.png
+  name: "구성민"
+  surname: "(Mozzi)"
+  title: "Head of SSUmunity"
+  thumbnailUrl: head_sungmin.png
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
   social:
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "facebook", link: "https://www.facebook.com/ababqq"}
+    - {name: "github", link: "https://github.com/ababqq"}
 -
   id: 2
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "오소희"
+  surname: "(Ssohe)"
+  title: "Operate Director"
+  thumbnailUrl: head_sungmin.png
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -26,10 +24,10 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 -
   id: 3
-  name: "Ostap"
-  surname: "Andrusiv"
+  name: "유호성"
+  surname: "(Eddy)"
   title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: head_sungmin.png
   team: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group"}
@@ -39,22 +37,253 @@
     - {name: "site", link: "http://andrusiv.com/"}
 -
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "박유빈"
+  surname: "(Porory)"
+  title: "Sponsors and Speakers Manager"
+  thumbnailUrl: head_sungmin.png
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 5
+  name: "전의찬"
+  surname: "(Chan-ei)"
+  title: "Sponsors and Speakers Manager"
+  thumbnailUrl: head_sungmin.png
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
+    - {name: "twitter", link: "https://twitter.com/p1f"}
+    - {name: "site", link: "http://andrusiv.com/"}
+-
+  id: 6
+  name: "김종찬"
+  surname: "(Ace)"
+  title: "Technical Director"
+  thumbnailUrl: dev_ace.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ace.jckim"}
+    - {name: "github", link: "https://github.com/acious"}
+-
+  id: 7
+  name: "최윤호"
+  surname: "(Kachu)"
+  title: "Lead of Backend"
+  thumbnailUrl: dev_yunho.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/choipika"}
+    - {name: "github", link: "https://github.com/choiking10"}
+#    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 8
+  name: "이상혁"
+  surname: "(Stark)"
+  title: "Backend Engineer"
+  thumbnailUrl: dev_sanghyeok.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/lee.sanghyeok.94"}
+    - {name: "github", link: "https://github.com/leesanghyeok"}
+
+-
+  id: 9
+  name: "오인규"
+  surname: "(Gomjellie)"
+  title: "Backend Engineer"
+  thumbnailUrl: dev_ingyu.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008488698005"}
+    - {name: "github", link: "https://github.com/gomjellie"}
+
+-
+  id: 10
+  name: "양기창"
+  surname: ""
+  title: "Android Developer"
+  thumbnailUrl: dev_kichang.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100008625183805"}
+    - {name: "github", link: "https://github.com/gichang-yang"}
+
+-
+  id: 11
+  name: "김지훈"
+  surname: "(Hoon)"
+  title: "Android Developer"
+  thumbnailUrl: dev_jihun.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002955521715"}
+    - {name: "github", link: "https://github.com/vagabond95"}
+
+-
+  id: 12
+  name: "박진우"
+  surname: "(Zinu)"
+  title: "iOS Developer"
+  thumbnailUrl: dev_zinu.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/jinwoo.park.161446"}
+    - {name: "github", link: "https://github.com/pacilo"}
+
+-
+  id: 13
+  name: "지건호"
+  surname: ""
+  title: "iOS Developer"
+  thumbnailUrl: dev_gunho.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006705828821"}
+
+-
+  id: 14
+  name: "신정민"
+  surname: ""
+  title: "Frontend Developer"
+  thumbnailUrl: dev_jungmin.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/shin.jeongmin.1"}
+    - {name: "github", link: "https://github.com/tirea02"}
+
+-
+  id: 15
+  name: "유슬기"
+  surname: "(Zoey)"
+  title: "Deep Learning Engineer"
+  thumbnailUrl: dev_seulki.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005356352767"}
+
+-
+  id: 16
+  name: "김태인"
+  surname: "(Terry)"
+  title: "Android Dev. & UI Designer"
+  thumbnailUrl: dev_taein.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/ulnamsong?ref=br_rs"}
+
+-
+  id: 17
+  name: "이기림"
+  surname: "(Limi)"
+  title: "UX Designer"
+  thumbnailUrl: dev_limi.png
+  devTeam: true
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/limi.klLee?fref=search"}
+
+-
+  id: 18
+  name: "박상권"
+  surname: "(Ent)"
+  title: "Project Manager"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
 -
-  id: 5
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  id: 19
+  name: "한빈나"
+  surname: "(Ellie)"
+  title: "Project Manager"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 20
+  name: "Mingming"
+  surname: ""
+  title: "Designer"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 21
+  name: "최현섭"
+  surname: "(Apeach)"
+  title: "Editor"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 22
+  name: "이한솔"
+  surname: "(Ssol)"
+  title: "Editor"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 23
+  name: "김윤중"
+  surname: "(Joy)"
+  title: "Editor"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 24
+  name: "우선아"
+  surname: "(Sun)"
+  title: "Editor"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 25
+  name: "강은일"
+  surname: "(Silver)"
+  title: "Editor"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
+  social:
+    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
+    - {name: "site", link: "http://olostan.name/"}
+
+-
+  id: 26
+  name: "조하은"
+  surname: "(Jane)"
+  title: "Editor"
+  thumbnailUrl: head_sungmin.png
+  contentsTeam: true
   social:
     - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
     - {name: "site", link: "http://olostan.name/"}
